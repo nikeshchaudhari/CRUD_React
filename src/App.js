@@ -10,7 +10,7 @@ const router = createBrowserRouter([
   {path:'/category',Component:Category},
   {path:'/add-category',Component:AddCatagory}
  ]}
-])
+])  
 const App = () => {
   
   return (
